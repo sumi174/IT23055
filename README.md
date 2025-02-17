@@ -1,4 +1,6 @@
-Ans to the ques no:1
+Ans to the ques no:1 
+function for reverse array
+
 public class ReverseArray {
     // Method to reverse the array in place
     public static void reverse(float[] arr) {
